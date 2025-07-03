@@ -12,6 +12,23 @@ A comprehensive employee management system built with SAP CAP (Cloud Application
 - **Dashboard Analytics**: Real-time statistics and insights
 - **Modern UI**: Responsive React.js frontend with TypeScript
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard](./images/dashboard.png)
+*Main dashboard showing employee statistics and department analytics*
+
+### Employee Management
+![Employee List](./images/employee-list.png)
+*Employee listing with search, filtering, and CRUD operations*
+
+### Authentication
+![Login Screen](./images/login.png)
+*Secure login interface with mock authentication for development*
+
+![Registration](./images/registration.png)
+*User registration form for new employees*
+
 ## 🏗️ Architecture
 
 ### Backend (SAP CAP)
