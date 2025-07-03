@@ -16,20 +16,20 @@ A comprehensive employee management system built with SAP CAP (Cloud Application
 
 ### Dashboard Overview
 
-![Dashboard](./images/dashboard.png)
+![Dashboard](./images/Dashboard.png)
 _Main dashboard showing employee statistics and department analytics_
 
 ### Employee Management
 
-![Employee List](./images/employee-list.png)
+![Employee List](./images/Employee-list.png)
 _Employee listing with search, filtering, and CRUD operations_
 
 ### Authentication
 
-![Login Screen](./images/login.png)
+![Login Screen](./images/Login.png)
 _Secure login interface with mock authentication for development_
 
-![Registration](./images/registration.png)
+![Registration](./images/Registration.png)
 _User registration form for new employees_
 
 ## 🏗️ Architecture
